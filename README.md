@@ -13,7 +13,7 @@ Put the python script and excel file in the same folder and run:
 
 python loganalyzer.py yourlogfile.xlsx
 
-The result will be a new xls file starting with "converted". In the new excel there will be three sheeds:
+The result will be a new xls file starting with "converted". In the new excel there will be three sheets:
 
 * INFO contains created, updated and retired ids in separate columnns
 * WARN and ERROR contain unique warnings and errors reported, and each message is split so that any ids or classifications should be retrievable. 
