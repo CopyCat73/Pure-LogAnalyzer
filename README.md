@@ -1,7 +1,7 @@
 # Pure-LogAnalyzer
 Convert pure job logs to a more concise format
 
-Usage:
+## Usage
 
 This script is for Python 2.7.X. 
 
