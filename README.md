@@ -1,5 +1,5 @@
 # Pure-LogAnalyzer
-Convert pure job logs to a more concise format
+Convert pure job logs to a more concise and reusable format
 
 ## Usage
 
